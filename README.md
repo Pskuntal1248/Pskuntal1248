@@ -1,4 +1,12 @@
-## Hi there 👋
+I build AI agents and developer tools, mostly in Python, Java and TypeScript.
+
+<p align="center">
+  <img src="PASTE_GIF_URL_HERE" alt="Camp Nou - animated dot-matrix art" width="720" />
+  <br />
+  <sub>Banner: dot-matrix render of <a href="https://commons.wikimedia.org/wiki/File:Camp_Nou_-_FC_Barcelona_-_Barcelona.jpg">Camp Nou photo</a> by JaflaumS05, modified, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></sub>
+</p>
+
+Simply lovely on race day. More at [gliderr.me](https://www.gliderr.me).
 
 <!--
 **Pskuntal1248/Pskuntal1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
